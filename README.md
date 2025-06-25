@@ -29,7 +29,6 @@ This project followed a structured data analysis pipeline:
     * Developed the dashboard using **Microsoft Power BI / Tableau**.
     * **Applied Filters:**
         * `Filter By State/UT`: Allows selection of specific regions.
-        * `Electrified Villages (Percentage) Slider`: Filters data by electrification percentage range.
     * Designed visuals (gauge, line, bar charts, choropleth map) to effectively communicate findings and support interactive data exploration.
 
 ## 💻 Technologies Used
